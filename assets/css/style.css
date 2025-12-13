@@ -26,7 +26,7 @@ main {
 }
 
 .magic::before {
-    content: "lahirnya";
+    content: "belum punya modal";
     animation: gantiKata 4.8s linear infinite;
 }
 
@@ -82,17 +82,17 @@ main {
 
     0%,
     33% {
-        content: "lahirnya";
+        content: "belum punya modal";
     }
 
     33.01%,
     66% {
-        content: "di";
+        content: "tapi punya ide";
     }
 
     66.01%,
     100% {
-        content: "sini";
+        content: "biar kita danai";
     }
 }
 
